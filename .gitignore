@@ -1,0 +1,7 @@
+developed_lot.hpp.gch
+lot.hpp.gch
+office_building.hpp.gch
+lot.o 
+office_building.o 
+main
+developed_lot.o
